@@ -106,7 +106,7 @@ feed:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-    repository: https://github.com/TianLnk/TianLnk.github.io.git
+    repo: git@github.com:TianLnk/tianlnk.github.io.git
     type: git
     branch: master
   
